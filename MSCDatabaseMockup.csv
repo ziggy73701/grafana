@@ -1,0 +1,10 @@
+﻿Site ID,House Name,House Number,Street,Town,Postcode,House Plan ID,Visit Report ID,Visit Date,Visit Purpose,Room ID,Room type,Sample Result / Colony Count,Plate Image ID,Lab Used
+Site01,Die-Pat,N/A,Borad March,Daventry,NN11 3BZ,Plan 1,Visit 1,30-May-24,Inspection,Room 1,Kitchen,150,1213,RBT
+Site01,Die-Pat,N/A,Borad March,Daventry,NN11 3BZ,Plan 1,Visit 1,30-May-24,Inspection,Room 2,Bathroom,200,1214,RBT
+Site01,Die-Pat,N/A,Borad March,Daventry,NN11 3BZ,Plan 1,Visit 1,30-May-24,Inspection,Room 3,Dining Room,300,1215,RBT
+Site01,Die-Pat,N/A,Borad March,Daventry,NN11 3BZ,Plan 1,Visit 35,19-Jul-24,Mould Remediation,Room 1,Kitchen,75,3000,RBT
+Site01,Die-Pat,N/A,Borad March,Daventry,NN11 3BZ,Plan 1,Visit 35,19-Jul-24,Mould Remediation,Room 2,Bathroom,65,3001,RBT
+Site01,Die-Pat,N/A,Borad March,Daventry,NN11 3BZ,Plan 1,Visit 35,19-Jul-24,Mould Remediation,Room 3,Dining Room,80,3002,RBT
+Site01,Die-Pat,N/A,Borad March,Daventry,NN11 3BZ,Plan 1,Visit 350,01-Dec-24,Follow up Sampling,Room 1,Kitchen,25,ABC123,BluTest
+Site01,Die-Pat,N/A,Borad March,Daventry,NN11 3BZ,Plan 1,Visit 350,01-Dec-24,Follow up Sampling,Room 2,Bathroom,15,ABC124,BluTest
+Site01,Die-Pat,N/A,Borad March,Daventry,NN11 3BZ,Plan 1,Visit 350,01-Dec-24,Follow up Sampling,Room 3,Dining Room,30,ABC125,BluTest
